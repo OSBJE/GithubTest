@@ -5,6 +5,7 @@ public abstract class Animal {
     //attribute
 
     private String name;
+    private int age;
     public abstract void makeSound();
 
 
